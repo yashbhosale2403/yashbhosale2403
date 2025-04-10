@@ -9,10 +9,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yashq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashq/" height="30" width="40" /></a>
 </p>
----
-
-### 🧠 Languages I've Used So Far
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhosale2403&layout=compact&langs_count=10&theme=radical)
-
----
