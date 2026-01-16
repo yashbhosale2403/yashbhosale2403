@@ -9,3 +9,22 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yashq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashq/" height="30" width="40" /></a>
 </p>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajwal-1703&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=prajwal-1703&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-1703&layout=compact&theme=tokyonight&langs_count=8)
+
+![Prajwal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prajwal-1703&theme=tokyo-night)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=prajwal-1703&theme=gruvbox&column=6&margin-w=10&margin-h=10) 
+</p>
+
+---
