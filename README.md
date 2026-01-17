@@ -58,16 +58,70 @@ I enjoy finding vulnerabilities, understanding attack surfaces, and building aut
 - Bootstrap, Tailwind CSS
 
 ---
-
 ## 🔐 Security Tools I Use
 
-- **Nmap**
-- **Burp Suite**
-- **Wireshark**
-- Metasploit
-- Hydra
-- Nikto
-- Nessus
+<p align="center">
+  <a href="https://nmap.org/">
+    <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
+  </a>
+
+  <a href="https://portswigger.net/burp">
+    <img src="https://img.shields.io/badge/Burp%20Suite-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="https://www.wireshark.org/">
+    <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=white" />
+  </a>
+
+  <a href="https://www.metasploit.com/">
+    <img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/vanhauser-thc/thc-hydra">
+    <img src="https://img.shields.io/badge/Hydra-0D1117?style=for-the-badge&logo=gnubash&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/sullo/nikto">
+    <img src="https://img.shields.io/badge/Nikto-0D1117?style=for-the-badge&logo=perl&logoColor=white" />
+  </a>
+
+  <a href="https://www.tenable.com/products/nessus">
+    <img src="https://img.shields.io/badge/Nessus-0D1117?style=for-the-badge&logo=tenable&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+## 🚀 DevOps & Cloud
+
+<p align="center">
+  <a href="https://www.docker.com/">
+    <img height="35" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=docker" />
+  </a>
+
+  <a href="https://aws.amazon.com/">
+    <img height="35" src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=aws" />
+  </a>
+
+  <a href="https://cloud.google.com/">
+    <img height="35" src="https://img.shields.io/badge/GCP-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=gcp" />
+  </a>
+
+  <a href="https://git-scm.com/">
+    <img height="35" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=git" />
+  </a>
+
+  <a href="https://github.com/yashbhosale2403">
+    <img height="35" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
 
 ---
 
