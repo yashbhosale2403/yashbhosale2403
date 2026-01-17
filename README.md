@@ -45,17 +45,78 @@ I enjoy finding vulnerabilities, understanding attack surfaces, and building aut
 ## 🛠️ Skills & Tech Stack
 
 ### 👨‍💻 Programming
-- **Python** (Primary)
-- Java
-- Bash Scripting
-- JavaScript
-- SQL
 
-### 🌐 Web Development
-- Django, Flask
-- React
-- HTML, CSS, JavaScript
-- Bootstrap, Tailwind CSS
+<p align="center">
+  <a href="https://www.python.org/">
+    <img height="35" src="https://img.shields.io/badge/Python%20(Primary)-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=python" />
+  </a>
+
+  <a href="https://www.java.com/">
+    <img height="35" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=java" />
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/">
+    <img height="35" src="https://img.shields.io/badge/Bash%20Scripting-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=bash" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img height="35" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=js" />
+  </a>
+
+  <a href="https://www.w3schools.com/sql/">
+    <img height="35" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+
+## 🌐 Web Development
+
+<p align="center">
+  <a href="https://www.djangoproject.com/">
+    <img height="35" src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=django" />
+  </a>
+
+  <a href="https://flask.palletsprojects.com/">
+    <img height="35" src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=flask" />
+  </a>
+
+  <a href="https://react.dev/">
+    <img height="35" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=react" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img height="35" src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=html" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img height="35" src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=css" />
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img height="35" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=js" />
+  </a>
+
+  <a href="https://getbootstrap.com/">
+    <img height="35" src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+
+  <a href="https://tailwindcss.com/">
+    <img height="35" src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&labelColor=0D1117" />
+    <img height="35" src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+</p>
 
 ---
 ## 🔐 Security Tools I Use
