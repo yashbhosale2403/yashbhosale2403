@@ -1,30 +1,111 @@
-<h1 align="center">Hi 👋, I'm yash bhosale</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hi, I'm Yash Bhosale 👋</h1>
+<h3 align="center">Cybersecurity | Ethical Hacker | Python Developer</h3>
 
-- 🌱 I’m currently learning **Django**
-
-- 📫 How to reach me **yashbhosale2403@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashq/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/yashbhosale2403">
+    <img src="https://img.shields.io/badge/GitHub-yashbhosale2403-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:yashbhosale2403@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yashbhosale2403%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yashq">
+    <img src="https://img.shields.io/badge/LinkedIn-Yash%20Bhosale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/yashbhosale2403">
+    <img src="https://img.shields.io/badge/TryHackMe-Top%205%25%20Worldwide-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
 </p>
 
+---
 
+## 👨‍💻 About Me
+
+I’m **Yash Bhosale**, an **intermediate cybersecurity learner** focused on **Bug Bounty**, **Web Pentesting**, and **Python-based security tooling**.
+
+I enjoy finding vulnerabilities, understanding attack surfaces, and building automation scripts that improve recon and testing workflows.
+
+- 🎯 Focus: **Bug Bounty & Web Application Security**
+- 🧠 Level: **Intermediate**
+- 🛡️ Strong in: Recon, Web Pentesting, OWASP Top 10
+- ⚙️ Love building: Python security tools + automation scripts
+- 🐧 OS: **Kali Linux**
+
+---
+
+## 🧠 Current Focus Areas
+
+- ✅ Bug Bounty methodology & reporting
+- ✅ Web vulnerability research (OWASP Top 10)
+- ✅ Recon automation using Python & Bash
+- ✅ Security testing with real-world tools
+- ✅ CTF practice on TryHackMe
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+### 👨‍💻 Programming
+- **Python** (Primary)
+- Java
+- Bash Scripting
+- JavaScript
+- SQL
+
+### 🌐 Web Development
+- Django, Flask
+- React
+- HTML, CSS, JavaScript
+- Bootstrap, Tailwind CSS
+
+---
+
+## 🔐 Security Tools I Use
+
+- **Nmap**
+- **Burp Suite**
+- **Wireshark**
+- Metasploit
+- Hydra
+- Nikto
+- Nessus
+
+---
+
+## 🎯 Practice Platforms
+
+- 🏆 TryHackMe — **Top 5% Worldwide**
+  - Profile: https://tryhackme.com/p/yashbhosale2403
+
+---
+
+## 📜 Certifications
+
+- ✅ **CCNA**
+- ✅ **CompTIA Security+**
+- ✅ **Google Cybersecurity Professional Certificate**
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashbhosale2403&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=yashbhosale2403&hide_border=true&theme=transparent" />
+</p>
 
-![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashbhosale2403&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yashbhosale2403&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhosale2403&layout=compact&theme=tokyonight&langs_count=8)
-
-![Prajwal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashbhosale2403&theme=tokyo-night)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=yashbhosale2403&theme=gruvbox&column=6&margin-w=10&margin-h=10) 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbhosale2403&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
+
+## 📫 Contact
+
+- 📧 Email: **yashbhosale2403@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/yashq
+
+---
+
+<p align="center">
+  <i>“Stay curious. Stay ethical. Keep hacking.”</i>
+</p>
